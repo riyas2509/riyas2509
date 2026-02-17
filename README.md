@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently building EchoNote – an AI-powered transcription and productivity platform (Founder)<br><br>👯 I’m looking to collaborate on AI, automation, and product-focused machine learning projects<br><br>🤝 I’m looking for help with scalable AI deployment and backend integration<br><br>🌱 I’m currently learning advanced machine learning, AI system design, and real-world model implementation<br><br>💬 Ask me about EchoNote, RailQ (smart railway prototype), stock market prediction models, and AI-driven automation<br><br>⚡ Fun fact: I enjoy turning practical problems into AI-powered systems.
+🔭 I’m currently building EchoNote – an AI-powered transcription and productivity platform (Founder)<br>👯 I’m looking to collaborate on AI, automation, and product-focused machine learning projects<br>🤝 I’m looking for help with scalable AI deployment and backend integration<br>🌱 I’m currently learning advanced machine learning, AI system design, and real-world model implementation<br>💬 Ask me about EchoNote, RailQ (smart railway prototype), stock market prediction models, and AI-driven automation<br>⚡ Fun fact: I enjoy turning practical problems into AI-powered systems.
 
 
 ## 🌐 Socials:
