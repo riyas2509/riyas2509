@@ -1,12 +1,180 @@
-# 💫 About Me:
-🔭 I’m currently building EchoNote – an AI-powered transcription and productivity platform (Founder)<br>👯 I’m looking to collaborate on AI, automation, and product-focused machine learning projects<br>🤝 I’m looking for help with scalable AI deployment and backend integration<br>🌱 I’m currently learning advanced machine learning, AI system design, and real-world model implementation<br>💬 Ask me about EchoNote, RailQ (smart railway prototype), stock market prediction models, and AI-driven automation<br>⚡ Fun fact: I enjoy turning practical problems into AI-powered systems.
+<h1 align="center">Hi 👋, I'm Riya Shah</h1>
 
+<h3 align="center">
+Building AI Products, Multi-Agent Systems & AI Transformation Intelligence
+</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/riya-shah-335056290) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:riyamshah2509@gmail.com) 
+<p align="center">
+AI/ML Undergraduate • Founder • Researcher • Product Builder
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+## 🚀 What I'm Building
+
+### EchoNote
+An AI-powered transcription and productivity platform focused on turning conversations into structured knowledge, insights, and actions.
+
+### EchoOS
+An AI Operating System that transforms objectives into research, strategy, validation, and execution through coordinated AI agents.
+
+---
+
+## 🔍 Current Focus
+
+- Multi-Agent AI Systems
+- AI Product Development
+- Generative AI Applications
+- AI Transformation Research
+- Workflow Automation
+- Human-AI Collaboration
+- AI Strategy & Execution Systems
+
+---
+
+## 🧠 What I Work On
+
+I enjoy building systems that combine:
+
+- Artificial Intelligence
+- Product Thinking
+- Automation
+- Research
+- Execution Frameworks
+
+Most of my projects sit at the intersection of AI, business workflows, and real-world problem solving.
+
+---
+
+## 📈 Recent Work
+
+### AI Transformation Research
+
+Conducting cross-industry AI transformation research involving:
+
+- Industry value chain analysis
+- AI intervention mapping
+- Operational workflow assessment
+- Technology adoption benchmarking
+- Productivity and efficiency impact evaluation
+
+---
+
+## 🏗 Featured Projects
+
+### EchoOS
+AI Operating System for Research, Strategy, Validation & Execution
+
+- Multi-agent architecture
+- Research Agent
+- Strategy Agent
+- Memory Agent
+- Reality Agent
+- Reflection Agent
+- Execution Agent
+- Supervisor Agent
+
+**Tech:** React, Vite, Firebase, Firestore, Gemini
+
+---
+
+### EchoNote
+AI-Powered Transcription & Productivity System
+
+- Conversation intelligence
+- Structured insight generation
+- Knowledge extraction workflows
+- Productivity-focused AI experiences
+
+---
+
+### OCR Model
+
+Handwritten Character Recognition using CNNs and EMNIST.
+
+**Focus Areas:**
+- Computer Vision
+- Deep Learning
+- Classification Pipelines
+
+---
+
+### RailQ
+
+Smart Railway Experience Prototype
+
+- Coach navigation
+- Safety workflows
+- Hygiene reporting
+- Passenger experience design
+
+---
+
+### Stock Market Prediction
+
+Machine Learning pipeline for trend prediction and experimentation with feature engineering and model evaluation.
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### AI & ML
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### Product & Development
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 🎯 Areas I Love Discussing
+
+- AI Startups
+- Multi-Agent Architectures
+- AI Product Strategy
+- AI Transformation
+- Generative AI
+- Machine Learning
+- Automation Systems
+- Founder Journeys
+
+---
+
+## 🤝 Open To
+
+- AI/ML Internships
+- Research Collaborations
+- Open Source Contributions
+- AI Product Discussions
+- Startup Opportunities
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="mailto:riyamshah2509@gmail.com">Email</a> •
+<a href="https://linkedin.com/in/riya-shah-335056290">LinkedIn</a> •
+<a href="https://github.com/YOUR_USERNAME">GitHub</a>
+</p>
+
+---
+
+<p align="center">
+Building systems that help people move from ideas to execution.
+</p>
