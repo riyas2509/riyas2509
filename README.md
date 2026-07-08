@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Riya Shah</h1>
+<h1 align="center">Hi, I'm Riya Shah</h1>
 
 <h3 align="center">
 Building AI Products, Multi-Agent Systems & AI Transformation Intelligence
@@ -10,7 +10,7 @@ AI/ML Undergraduate • Founder • Researcher • Product Builder
 
 ---
 
-## 🚀 What I'm Building
+## What I'm Building
 
 ### EchoNote
 An AI-powered transcription and productivity platform focused on turning conversations into structured knowledge, insights, and actions.
@@ -20,7 +20,7 @@ An AI Operating System that transforms objectives into research, strategy, valid
 
 ---
 
-## 🔍 Current Focus
+## Current Focus
 
 - Multi-Agent AI Systems
 - AI Product Development
@@ -32,7 +32,7 @@ An AI Operating System that transforms objectives into research, strategy, valid
 
 ---
 
-## 🧠 What I Work On
+## What I Work On
 
 I enjoy building systems that combine:
 
@@ -46,7 +46,7 @@ Most of my projects sit at the intersection of AI, business workflows, and real-
 
 ---
 
-## 📈 Recent Work
+## Recent Work
 
 ### AI Transformation Research
 
@@ -60,7 +60,7 @@ Conducting cross-industry AI transformation research involving:
 
 ---
 
-## 🏗 Featured Projects
+## Featured Projects
 
 ### EchoOS
 AI Operating System for Research, Strategy, Validation & Execution
@@ -116,7 +116,7 @@ Machine Learning pipeline for trend prediction and experimentation with feature 
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -142,7 +142,7 @@ Machine Learning pipeline for trend prediction and experimentation with feature 
 
 ---
 
-## 🎯 Areas I Love Discussing
+## Areas I Love Discussing
 
 - AI Startups
 - Multi-Agent Architectures
@@ -155,7 +155,7 @@ Machine Learning pipeline for trend prediction and experimentation with feature 
 
 ---
 
-## 🤝 Open To
+## Open To
 
 - AI/ML Internships
 - Research Collaborations
@@ -165,7 +165,7 @@ Machine Learning pipeline for trend prediction and experimentation with feature 
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <p align="left">
 <a href="mailto:riyamshah2509@gmail.com">Email</a> •
