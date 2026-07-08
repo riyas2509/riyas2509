@@ -170,7 +170,8 @@ Machine Learning pipeline for trend prediction and experimentation with feature 
 <p align="left">
 <a href="mailto:riyamshah2509@gmail.com">Email</a> •
 <a href="https://linkedin.com/in/riya-shah-335056290">LinkedIn</a> •
-<a href="https://github.com/YOUR_USERNAME">GitHub</a>
+<a href="https://github.com/riyas2509">GitHub</a> •
+<a href="https://riyas25.vercel.app/">Portfolio</a>
 </p>
 
 ---
