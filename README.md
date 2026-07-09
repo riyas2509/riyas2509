@@ -99,17 +99,6 @@ Handwritten Character Recognition using CNNs and EMNIST.
 
 ---
 
-### RailQ
-
-Smart Railway Experience Prototype
-
-- Coach navigation
-- Safety workflows
-- Hygiene reporting
-- Passenger experience design
-
----
-
 ### Stock Market Prediction
 
 Machine Learning pipeline for trend prediction and experimentation with feature engineering and model evaluation.
